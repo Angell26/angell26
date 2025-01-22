@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/b998d932-ea22-41f5-bda6-802b9a21aad7)
-<h1 align="center">Hi, I'm ANGEL</h1>
+<h1 align="center">Hi, I'm ANGEL</h1> ![Image](https://github.com/user-attachments/assets/948dec5a-db27-4a3c-ad6c-a4f1ed2a9307)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angell26&label=Profile%20views&color=0e75b6&style=flat" alt="angell26" /> </p>
