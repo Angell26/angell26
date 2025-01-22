@@ -1,7 +1,8 @@
 ![Image](https://github.com/user-attachments/assets/b998d932-ea22-41f5-bda6-802b9a21aad7)
 <h1 align="center">Hi, I'm ANGEL</h1> ![Image]
-(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/361449d715330d0cc1a1af6d72ed8be6744d8c3d9719a8b76836714194e3e419/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966")
+
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/361449d715330d0cc1a1af6d72ed8be6744d8c3d9719a8b76836714194e3e419/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angell26&label=Profile%20views&color=0e75b6&style=flat" alt="angell26" /> </p>
 
