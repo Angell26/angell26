@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/b998d932-ea22-41f5-bda6-802b9a21aad7)
 <h1 align="center">Hi, I'm ANGEL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
