@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **.**
 
-- 📫 How to reach me **angelraju1726**
+- 📫 How to reach me **angelraju1726@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ktoay1CWo6KMQBF6m_BXLtIgSJZYROOh/view?usp=sharing](https://drive.google.com/file/d/1ktoay1CWo6KMQBF6m_BXLtIgSJZYROOh/view?usp=sharing)
 
