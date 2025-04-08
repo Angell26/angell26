@@ -49,7 +49,7 @@ Here are some of my completed projects that showcase my skills and interests:
   - Real-time weather updates for travel planning.
   - Sleek, user-friendly UI for enhanced user experience.
 
-### 🎭 [London Musical Tickets]([https://github.com/Angell26/LondonMusicalTickets](https://github.com/Angell26/musicalticketbooking))
+### 🎭 [London Musical Tickets](https://github.com/Angell26/musicalticketbooking)
 - **Description:** A Java-based ticket booking system tailored for musicals in London.
 - **Tech Stack:** Java, MySQL
 - **Key Features:**
