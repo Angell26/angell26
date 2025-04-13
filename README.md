@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Angel Raju</h1>
+<h1 align="center">👋 Hi, I'm Angel</h1>
 <p align="center">
   <em>A results-driven software developer and IT professional specializing in creating scalable applications, optimizing system performance, and exploring cloud technologies.</em>
 </p>
