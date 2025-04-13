@@ -41,7 +41,7 @@
 ## 🌟 Projects
 Here are some of my completed projects that showcase my skills and interests:
 
-### 🛣️ [Eco Routes](https://github.com/Angell26/EcoRoutes)
+### 🛣️ [Eco Routes](https://github.com/Angell26/eco_routes)
 - **Description:** An eco-friendly travel optimization app promoting sustainable travel by integrating Google Maps and OpenWeatherMap APIs.
 - **Tech Stack:** React.js, Node.js, Google Cloud Platform
 - **Key Features:**
